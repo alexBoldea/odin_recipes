@@ -5,3 +5,6 @@ What to accomplish:
 
 What to cover:
 - basic HTML, CSS
+
+What was covered:
+- basic HTML
